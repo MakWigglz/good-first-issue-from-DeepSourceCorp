@@ -19,6 +19,7 @@ logs
 .idea
 
 # Local env files
+/Users/amakki/Documents/Coding-Design/GitHub/good-first-issue-from-DeepSourceCorp/LICENSE/workspace.env
 .env
 .env.*
 !.env.example
