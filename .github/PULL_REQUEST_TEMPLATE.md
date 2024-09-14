@@ -1,4 +1,4 @@
-#### ℹ️ Repository information
+# Repository information
 
 **The repository has**:
 
